@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984796640614",
+    "project_id": "loginandregister-4a0d3",
+    "storage_bucket": "loginandregister-4a0d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984796640614:android:ee1a1630a851778f6284a7",
+        "android_client_info": {
+          "package_name": "com.rohit.loginandregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984796640614-vg3k6gm4qff1v0ahjbedj4gqrnnn4hvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChZeIGWu-DypNeHaulWG56pieImdHi7ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984796640614-vg3k6gm4qff1v0ahjbedj4gqrnnn4hvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
